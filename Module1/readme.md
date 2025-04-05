@@ -1,5 +1,5 @@
 <details>
-<summary>  Module 1- Packaging Evolution: From Basics to 3D integration </summary>
+<summary> <h2> Packaging Evolution: From Basics to 3D integration</h2> </summary>
 <details>
 <summary> Introduction to Semiconductor Packaging and Industry Overview </summary>
 
@@ -13,7 +13,7 @@ Semiconductor packaging plays a vital role in transitioning a fabricated silicon
 
 A common packaging type, like the **Ball Grid Array (BGA)**, encapsulates the die with molding compound and uses wire bonds to connect the die to a substrate, enabling integration with PCBs.
 
-![image](./images/module1/Screenshot%202025-04-05%20143644.png)
+![image](../images/module1/Screenshot%202025-04-05%20143644.png)
 
 ### 🧠 Real-World Example:
 In devices like the **iPhone 15**, we see multiple packaged chips from companies such as **Broadcom, Texas Instruments, SK Hynix, Renesas, Cirrus Logic, STMicroelectronics**, etc., integrated on a logic board — highlighting the importance of effective semiconductor packaging.
@@ -24,8 +24,7 @@ In devices like the **iPhone 15**, we see multiple packaged chips from companies
 
 The semiconductor ecosystem is composed of multiple specialized entities:
 
-- **Fabless Companies**: Focused on chip design (e.g., Qualcomm, AMD, Apple).
-- **Foundries**: Handle wafer fabrication (e.g., TSMC, GlobalFoundries).
+- **Fabless Companies**: Focused on chip design (e.g., Qualcomm, AMD, Apple).- **Foundries**: Handle wafer fabrication (e.g., TSMC, GlobalFoundries).
 - **OSAT (Outsourced Semiconductor Assembly and Test)**: Specialize in packaging and testing (e.g., ASE, Amkor, JCET, PTI).
 - **IDMs (Integrated Device Manufacturers)**: Companies like Intel or Samsung who manage the entire flow from design to assembly.
 
@@ -34,7 +33,7 @@ The semiconductor ecosystem is composed of multiple specialized entities:
 
 In India, emerging players like **Micron, CG Power-Renesas, TATA Electronics, and Kaynes Semiconductor** are contributing to this growing domain.
 
-![image](./images/module1/Screenshot%202025-04-05%20144130.png)
+![image](../images/module1/Screenshot%202025-04-05%20144130.png)
 </details>
 
 <details>
@@ -46,7 +45,7 @@ In India, emerging players like **Micron, CG Power-Renesas, TATA Electronics, an
 In modern SoC (System on Chip) and board design, <strong>choosing the right package</strong> is a crucial step to ensure product reliability, efficiency, and performance. As visualized below, the packaging acts as a bridge between the <strong>chip</strong> and the <strong>board</strong>, ensuring electrical, thermal, and mechanical integrity.
 </p>
 
-<img src="./images/module1/Screenshot 2025-04-05 145946.png" alt="Product Requirements Diagram" width="600"/>
+<img src="../images/module1/Screenshot 2025-04-05 145946.png" alt="Product Requirements Diagram" width="600"/>
 
 <h4>🔍 Key Factors in Package Selection:</h4>
 <ul>
@@ -66,7 +65,7 @@ In modern SoC (System on Chip) and board design, <strong>choosing the right pack
 
 <p>The figure below illustrates the internal structure of a typical package and the connection hierarchy:</p>
 
-<img src="./images/module1/Screenshot 2025-04-05 150315.png" alt="Typical Package Structure" width="600"/>
+<img src="../images/module1/Screenshot 2025-04-05 150315.png" alt="Typical Package Structure" width="600"/>
 
 <ul>
   <li><strong>Die:</strong> The silicon chip itself.</li>
@@ -85,7 +84,7 @@ In modern SoC (System on Chip) and board design, <strong>choosing the right pack
 
 <h3>📦 Common Package Types</h3>
 
-<img src="./images/module1/Screenshot 2025-04-05 150919.png" alt="Package Types Overview" width="600"/>
+<img src="../images/module1/Screenshot 2025-04-05 150919.png" alt="Package Types Overview" width="600"/>
 
 <p><strong>Through-hole Packages:</strong></p>
 <ul>
@@ -145,7 +144,7 @@ In System-on-Chip (SoC) and semiconductor packaging, the physical interface betw
 CoWoS integrates a silicon interposer with high-bandwidth memory (HBM) and a logic SoC on a common substrate. This design supports advanced applications such as AI and HPC (High-Performance Computing).
 </p>
 
-<img src="./images/module1/Screenshot 2025-04-05 152007.png" alt="Anatomy of Packages" width="600"/>
+<img src="../images/module1/Screenshot 2025-04-05 152007.png" alt="Anatomy of Packages" width="600"/>
 </details>
 
 <details>
@@ -195,7 +194,7 @@ At a high level, the semiconductor package stack includes:
 </ul>
 
 <p>
-<img src="./images/module1/Screenshot 2025-04-05 152543.png" alt="Package Nomenclature Diagram" width="600"/>
+<img src="../images/module1/Screenshot 2025-04-05 152543.png" alt="Package Nomenclature Diagram" width="600"/>
 </p>
 
 <p>
