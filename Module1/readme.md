@@ -1,4 +1,4 @@
-<details>
+
 <summary> <h2> Packaging Evolution: From Basics to 3D integration</h2> </summary>
 <details>
 <summary> Introduction to Semiconductor Packaging and Industry Overview </summary>
@@ -270,5 +270,4 @@ Source: <a href="https://www.amazon.com/Semiconductor-Advanced-Packaging-John-La
   </tbody>
 </table>
 
-</details>
 </details>

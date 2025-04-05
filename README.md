@@ -11,7 +11,7 @@ Explore various types of semiconductor packages (DIP, QFN, BGA, 2.5D/3D ICs), in
 ## 📚 Modules
 
 - [**Module 1:**](./Module1/readme.md) Packaging Evolution – From Basics to 3D Integration  
-- **Module 2:** Wafer to Package – Assembly and Manufacturing Essentials  
+- [**Module 2:**](./Module2/readme.md) Wafer to Package – Assembly and Manufacturing Essentials  
 - **Module 3:** Labs – Thermal Simulation of Semiconductor Packages with ANSYS  
 - **Module 4:** Packaging Reliability – Testing and Performance Validation  
 - **Module 5:** Package Design and Modeling – Building a Package from Scratch  
